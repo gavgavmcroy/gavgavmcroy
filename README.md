@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Digital Craftsman. Educator. Experimenter
 -----------------------------------------
 
-I'm a recently graduated freelance software engineer building my version of the digital world one step at a time. All my coding projects are made from the ground up, from planning to design to solving real-life problems with code. As a hobby, my dad and I build race trucks to compete at different out-of-state events. Our trucks are created by the same principle, from ideation and planning to finalization with some creative engineering touches. I've learned in life nearly nothing can beat determination and focus.
+I'm a recently graduated freelance software engineer building my version of the digital world one step at a time. All my coding projects are made from the ground up, from planning to design to solving real-life problems with code. As a hobby, my family and I build race trucks to compete at different out-of-state events. Our trucks are created by the same principle, from ideation and planning to finalization with some creative engineering touches. I've learned in life nearly nothing can beat determination and focus.
 
 * 🌍  I'm based in Charleston, South Carolina
 * 🖥️  See my portfolio at [gavinmcroy.com](http://gavinmcroy.com)
