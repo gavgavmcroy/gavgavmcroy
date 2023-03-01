@@ -57,7 +57,7 @@ src="https://img.shields.io/twitch/status/gavinmcroy?logo=twitchsx&style=for-the
   <summary>:zap: Github Stats</summary>
   <p align="left">
   <a href="https://github.com/gavinmcroy/github-readme-stats">
-    <img width="420" align="left" alt="ashawe's Github Stats" src="https://github-readme-stats.gavinmcroy.vercel.app/api?username=gavinmcroy&show_icons=true&hide_border=true" />
+    <img width="420" align="left" alt="Gavs's Github Stats" src="https://github-readme-stats.gavinmcroy.vercel.app/api?username=gavinmcroy&show_icons=true&hide_border=true" />
   </a>
   <a href="https://github.com/ashawe/github-readme-stats">
     <img align="left" alt="ashawe's Github Stats" src="https://github-readme-stats.ashawe.vercel.app/api/top-langs/?username=ashawe&layout=compact&hide_border=true" />
