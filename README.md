@@ -51,25 +51,10 @@ src="https://img.shields.io/twitch/status/gavinmcroy?logo=twitchsx&style=for-the
 
 <b>My GitHub Stats</b>
 
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-  <p align="left">
-  <a href="https://github.com/gavinmcroy/github-readme-stats">
-    <img width="420" align="left" alt="Gavs's Github Stats" src="https://github-readme-stats.gavinmcroy.vercel.app/api?username=gavinmcroy&show_icons=true&hide_border=true" />
-  </a>
-  <a href="https://github.com/ashawe/github-readme-stats">
-    <img align="left" alt="ashawe's Github Stats" src="https://github-readme-stats.ashawe.vercel.app/api/top-langs/?username=ashawe&layout=compact&hide_border=true" />
-  </a>
-  </p>
-
-</details>
-
 <a href="http://www.github.com/gavinmcroy/github-readme-stats"><img src="https://github-readme-stats.gavinmcroy.vercel.app/api?username=gavinmcroy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gavinmcroy's GitHub stats" /></a>
 
-<a href="https://github.com/gavinmcroy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavinmcroy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/gavinmcroy/github-readme-stats" align="left"><img src="https://github-readme-stats.gavinmcroy.vercel.app/api/top-langs/?username=gavinmcroy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/gavinmcroy/fun-projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gavinmcroy&repo=fun-projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/gavinmcroy/fun-projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.gavinmcroy.vercel.app/api/pin/?username=gavinmcroy&repo=fun-projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
